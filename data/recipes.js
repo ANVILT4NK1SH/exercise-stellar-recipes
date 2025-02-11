@@ -81,7 +81,8 @@ const recipes = [
 	},
 	{
 		id: "5",
-		image: "",
+		image:
+			"https://images.unsplash.com/photo-1625876981820-be17a6807189?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 		title: "Chocolate Chip Cookies",
 		description: "Classic cookies with gooey chocolate chips.",
 		ingredients: [
@@ -105,7 +106,8 @@ const recipes = [
 	},
 	{
 		id: "6",
-		image: "",
+		image:
+			"https://images.unsplash.com/photo-1464500542410-1396074bf230?q=80&w=1923&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 		title: "Vegetable Stir Fry",
 		description:
 			"A quick and healthy vegetable stir fry with soy sauce and garlic.",
@@ -129,7 +131,8 @@ const recipes = [
 	},
 	{
 		id: "7",
-		image: "",
+		image:
+			"https://images.unsplash.com/photo-1595854341625-f33ee10dbf94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 		title: "Margherita Pizza",
 		description:
 			"Classic pizza with fresh mozzarella, basil, and tomato sauce.",
@@ -150,7 +153,8 @@ const recipes = [
 	},
 	{
 		id: "8",
-		image: "",
+		image:
+			"https://plus.unsplash.com/premium_photo-1661776602402-b18faa74facc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 		title: "Beef Tacos",
 		description: "Flavorful beef tacos with fresh toppings.",
 		ingredients: [
@@ -171,7 +175,8 @@ const recipes = [
 	},
 	{
 		id: "9",
-		image: "",
+		image:
+			"https://images.unsplash.com/photo-1575596510825-f748919a2bf7?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 		title: "Lemonade",
 		description: "Refreshing homemade lemonade.",
 		ingredients: ["Lemons", "Sugar", "Water", "Ice"],
@@ -184,7 +189,8 @@ const recipes = [
 	},
 	{
 		id: "10",
-		image: "",
+		image:
+			"https://images.unsplash.com/photo-1606149186228-4e5ac94a742e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 		title: "Banana Pancakes",
 		description: "Fluffy pancakes with ripe bananas.",
 		ingredients: [
